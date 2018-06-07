@@ -1,7 +1,3 @@
-/* NameAbhijit Shankhdhar
-   Roll No-02
-   Branch-IT
-   Sem-4 */
 
 #include <stdio.h>
 #include <string.h>
